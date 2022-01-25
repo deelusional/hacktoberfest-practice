@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line -->
+
 **This repository is _not_ included in the Hacktoberfest event, as it is for practice only!**
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [EddieHubCommunity-Support](https://github.com/EddieHubCommunity/support)
@@ -54,7 +55,7 @@ You can ask questions by raising an [issue](https://github.com/EddieHubCommunity
 - **Add your name to the section that matches your Initial in [this list](https://github.com/EddieHubCommunity/hacktoberfest-practice#hacktoberfest-community). Then, add your name in alphabetical order. Then save your changes.**
 
 - For example
-  `- [Full Name](https://github.com/your-username)`
+  `- [dTap](https://github.com/deelusional)`
 
 - Stage your changes.
 
